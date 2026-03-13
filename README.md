@@ -24,7 +24,7 @@ Channel Alignment: Align different channels within the same sample
 Python 3.8+
 PyTorch
 SimpleITK
-PyQt5
+PyQt6
 VTK
 NumPy
 tifffile
@@ -131,7 +131,7 @@ Common issues and their solutions:
 CUDA Out of Memory: Reduce batch size or window size
 File Not Found: Check file naming patterns and prefix settings
 Poor Alignment Quality: Try adjusting learning rate or augmentation settings
-GUI Crashes: Check for PyQt5 and VTK compatibility
+GUI Crashes: Check for PyQt6 and VTK compatibility
 
 # Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
