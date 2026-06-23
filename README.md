@@ -146,6 +146,9 @@ PyTorch provides the neural network framework
 
 # Citation
 If you use this software in your research, please cite:
+
+Blanc, M., Meister, L., Lemon, W. C., Fiuza, U.-m., Keller, P. J., Espinosa-Medina, I., & Pujades, C. (2025). Multimodal cell lineage reconstruction in the hindbrain reveals a link between progenitor origin and activity patterning. bioRxiv. https://doi.org/10.1101/2025.11.14.688499
+
 @software{RAD,
   author = {Matthias Blanc},
   title = {RAD: 3D Rigid Alignment with Deep learning},
